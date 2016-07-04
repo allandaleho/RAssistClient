@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RAssistClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_ask_assist">Ask for assistance</string>
+
+    <string name="users_tag">users</string>
+    <string name="title_activity_main_conf">MainConfActivity</string>
+</resources>
